@@ -1,0 +1,10 @@
+Ejercicio 5: Diseño de soluciones de alta disponibilidad Multi-Región
+Objetivo: Diseñar una arquitectura de alta disponibilidad multi-región.
+Instrucciones:
+• Implementa una clase Region que simule una región con sus propios servidores y
+balanceadores de carga.
+• Define métodos para replicar datos entre regiones y gestionar el tráfico utilizando DNS.
+• Implementa una función que simule el enrutamiento de solicitudes entre múltiples regiones,
+incluyendo la conmutación por error en caso de falla en una región.
+
+
